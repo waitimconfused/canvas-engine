@@ -1,7 +1,7 @@
-import { Point2, Point4 } from "../toolbelt-v2/lib/Points.js";
-import { range } from "../toolbelt-v2/lib/Range.js";
-import units from "../toolbelt-v2/lib/Units.js";
-import mouse from "../toolbelt-v2/lib/Mouse.js";
+import { Point2, Point4 } from "./toolbelt/lib/Points.js";
+import { range } from "./toolbelt/lib/Range.js";
+import units from "./toolbelt/lib/Units.js";
+import mouse from "./toolbelt/lib/Mouse.js";
 
 function isValidUrl(urlString) {
 	try { 

@@ -1,7 +1,7 @@
-import { Point2 } from "../../toolbelt-v2/lib/Points.js";
-import Colour from "../../toolbelt-v2/lib/Colour.js";
-import { range } from "../../toolbelt-v2/lib/Range.js";
-import units from "../../toolbelt-v2/lib/Units.js";
+import { Point2 } from "../toolbelt/lib/Points.js";
+import Colour from "../toolbelt/lib/Colour.js";
+import { range } from "../toolbelt/lib/Range.js";
+import units from "../toolbelt/lib/Units.js";
 import { Component } from "../utils.js";
 
 const degToRad = Math.PI / 180;

@@ -1,5 +1,5 @@
-import Colour from "../../toolbelt-v2/lib/Colour.js";
-import { Point2 } from "../../toolbelt-v2/lib/Points.js";
+import Colour from "../toolbelt/lib/Colour.js";
+import { Point2 } from "../toolbelt/lib/Points.js";
 import { Component } from "../utils.js";
 
 export class Canvas extends Component {

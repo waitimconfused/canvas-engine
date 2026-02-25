@@ -1,6 +1,6 @@
-import { Point2, Point4 } from "../../toolbelt-v2/lib/Points.js";
-import Colour from "../../toolbelt-v2/lib/Colour.js";
-import units from "../../toolbelt-v2/lib/Units.js";
+import { Point2, Point4 } from "../toolbelt/lib/Points.js";
+import Colour from "../toolbelt/lib/Colour.js";
+import units from "../toolbelt/lib/Units.js";
 import { Component } from "../utils.js";
 
 export class Path extends Component {
